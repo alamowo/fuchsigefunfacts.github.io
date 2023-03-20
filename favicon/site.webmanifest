@@ -1,0 +1,19 @@
+{
+    "name": "Fuchsige Fun Facts",
+    "short_name": "FFF 🦊",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ff822d",
+    "background_color": "#7e4016",
+    "display": "standalone"
+}
